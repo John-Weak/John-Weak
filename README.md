@@ -18,3 +18,25 @@
 </p>
 
 ---
+
+# Project Euler
+
+![Project Euler](https://projecteuler.net/profile/John-Weak.png)
+
+#### Project Euler Friend key - `1564133_DS6gi9EPyyka1W7LvKtVAVTByJK7Aumb`
+
+# CSS Battle
+
+<a href="https://cssbattle.dev/player/john_weak">
+<img align="center" src="./public/images/css_battle.png" alt="John-Weak CSS Battle"/>
+</a>
+
+[john_weak](https://cssbattle.dev/player/john_weak)
+
+# CSES
+
+<a href="https://cses.fi/user/21801">
+<img align="center" src="./public/images/cses.png" alt="John-Weak Cses"/>
+</a>
+
+[John-Weak](https://cses.fi/user/21801)
