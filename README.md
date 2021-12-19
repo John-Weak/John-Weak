@@ -51,10 +51,14 @@
 
 <details open>
 
-<summary>Meme</summary>
+> `Refresh the page and enjoy 😎 #MemeAddict`
+
+<summary>Random Meme</summary>
 
 <p align="center">
-  <img src="https://memeapi-thorved.herokuapp.com/meme.jpg/ProgrammerHumor" width="500">
+  <img src="https://memeapi-thorved.herokuapp.com/meme/ProgrammerHumor" width="auto" height="400" 
+  
+  >
 </p>
 </details>
 
