@@ -16,8 +16,11 @@
   <table align="center">
     <tr>
     <td valign="top" width="40%"><samp><h3 align="center">Project Euler</h3></samp>
-        <p align="center">
-           <img align="center" src="https://projecteuler.net/profile/John-Weak.png" >        
+        <a href="https://projecteuler.net/profile/John-Weak.png">
+           <img align="center" src="https://projecteuler.net/profile/John-Weak.png" ><br>
+          <b> john_weak</b>
+        </a>
+        </p>    
 <details>
 <summary>Friend Key</summary>
 
