@@ -54,7 +54,7 @@
 <summary>Meme</summary>
 
 <p align="center">
-  <img src="./public/images/meme.png" width="500">
+  <img src="https://memeapi-thorved.herokuapp.com/meme.jpg/ProgrammerHumor" width="500">
 </p>
 </details>
 
