@@ -52,9 +52,9 @@
 
 ---
 
-<details open>
+<details close>
 
-> `Refresh the page and enjoy 😎 #MemeAddict`
+> `Please Refresh the page and enjoy 😎 #MemeAddict`
 
 <summary>Random Meme</summary>
 
