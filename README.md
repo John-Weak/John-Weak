@@ -1,6 +1,5 @@
 <!-- Visitor Count -->
-
-![](https://visitor-badge.glitch.me/badge?page_id=John-Weak.visitor-badge) [![wakatime](https://wakatime.com/badge/user/3540374a-36fb-4d8a-9268-84e294fbacc6.svg)](https://wakatime.com/@3540374a-36fb-4d8a-9268-84e294fbacc6)
+[![wakatime](https://wakatime.com/badge/user/3540374a-36fb-4d8a-9268-84e294fbacc6.svg)](https://wakatime.com/@3540374a-36fb-4d8a-9268-84e294fbacc6)
 
 
 <!-- Visitor Count -->
